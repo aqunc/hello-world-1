@@ -1,2 +1,3 @@
 # hello-world-1
-hello-world(Description)
+hello-world (Description)
+はじめてのGitHub
